@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Duplicate ID Visual Finder",
+  "name": "Duplicate ID Finder",
   "version": "1.0",
   "author": "John Paul Mariano",
   "description": "Finds duplicate HTML IDs, logs them, and highlights them with a red border.",
