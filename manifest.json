@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Duplicate ID Visual Finder",
+  "version": "1.0",
+  "author": "John Paul Mariano",
+  "description": "Finds duplicate HTML IDs, logs them, and highlights them with a red border.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
